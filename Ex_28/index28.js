@@ -1,0 +1,22 @@
+const number = 9;
+const resultOne = number * 1;
+const resultTwo = number * 2;
+const resultThree = number * 3;
+const resultFour = number * 4;
+const resultFive = number * 5;
+const resultSix = number * 6;
+const resultSeven = number * 7;
+const resultEight = number * 8;
+const resultNine = number * 9;
+const resultTen = number * 10;
+console.log('9 times 1' + ' equal ' + resultOne);
+console.log('9 times 2' + ' equal ' + resultTwo);
+console.log('9 times 3' + ' equal ' + resultThree);
+console.log('9 times 4' + ' equal ' + resultFour);
+console.log('9 times 5' + ' equal ' + resultFive);
+console.log('9 times 6' + ' equal '+ resultSix);
+console.log('9 times 7' + ' equal ' + resultSeven);
+console.log('9 times 8' + ' equal ' + resultEight);
+console.log('9 times 9' + ' equal ' + resultNine);
+console.log('9 times 10' + ' equal ' + resultTen);
+
